@@ -124,7 +124,7 @@ python downloader.py
 
 ## ⚙️ Configuration & Under the Hood
 
-- **Engine**: Built upon [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), the gold-standard command-line audio/video downloader.
+- **Engine**: Built upon [`ap-dlp`](https://github.com/abhijeetrentpur/ap-dlp), the gold-standard command-line audio/video downloader.
 - **Stream Merging**: Separate DASH video and audio streams are automatically merged into clean, playback-ready MP4 containers using bundled `static-ffmpeg`.
 - **Cross-Platform Compatibility**: Tested and optimized for Windows (PowerShell/CMD), Linux, and macOS.
 
@@ -139,7 +139,7 @@ This project is licensed under the **MIT License** - feel free to use, modify, a
 ## 👤 Author
 
 **Abhijeet Pandey**
-- GitHub: [@your-username](https://github.com/)
+- GitHub: [@abhijeetrentpur](https://github.com/abhijeetrentpur)
 
 ---
 
