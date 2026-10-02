@@ -64,8 +64,8 @@ Select an option (1-6):
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ap-dlp-downloader.git
-   cd ap-dlp-downloader
+   git clone https://github.com/abhijeetrentpur/ap-dlp.git
+   cd ap-dlp
    ```
 
 2. **(Optional) Create a virtual environment:**
