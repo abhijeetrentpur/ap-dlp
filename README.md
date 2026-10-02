@@ -2,13 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/yt--dlp-Powered-red.svg?logo=youtube&logoColor=white" alt="yt-dlp">
+  <img src="https://img.shields.io/badge/yt--dlp-Powered-red.svg?logo=youtube&logoColor=white" alt="ap-dlp">
   <img src="https://img.shields.io/badge/FFmpeg-Auto--Bundled-green.svg" alt="FFmpeg Bundled">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" alt="Cross-Platform">
 </p>
 
-An interactive, feature-rich command-line YouTube and media downloader built in Python using **`yt-dlp`**. 
+An interactive, feature-rich command-line YouTube and media downloader built in Python using **`ap-dlp`**. 
 
 Developed by **Abhijeet Pandey**, **AP-DLP** simplifies media downloads with interactive quality selection, automatic audio extraction, live terminal progress bars, playlist management, and built-in **FFmpeg** path resolution without messy environment configurations.
 
@@ -115,7 +115,7 @@ python downloader.py
 
 ```text
 ├── downloader.py       # Main interactive CLI application
-├── requirements.txt    # Project dependencies (yt-dlp, static-ffmpeg)
+├── requirements.txt    # Project dependencies (ap-dlp, static-ffmpeg)
 ├── .gitignore          # Git exclusion rules for media files & pycache
 └── README.md           # Documentation
 ```
