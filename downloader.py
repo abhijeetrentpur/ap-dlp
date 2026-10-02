@@ -15,7 +15,7 @@ FFMPEG_AVAILABLE = shutil.which("ffmpeg") is not None
 
 def print_banner():
     print("\n" + "=" * 55)
-    print("      AP-DLP PYTHON DOWNLOADER (BY Abhijeet Pandey)")
+    print("      AP-DLP PYTHON DOWNLOADER (BY Abhijeet Pandey | https://github.com/abhijeetrentpur/ap-dlp)")
     print("=" * 55)
     if FFMPEG_AVAILABLE:
         print("[Status] FFmpeg is active! High quality video & audio merging enabled.")
